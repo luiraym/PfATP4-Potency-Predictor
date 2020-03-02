@@ -1,1 +1,1 @@
-# PfATP4PotencyPredictor
+# PfATP4 Potency Predictor
